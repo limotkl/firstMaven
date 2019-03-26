@@ -30,8 +30,8 @@ public class CalculaterTest {
 	public void testMulti() {
 		//fail("Not yet implemented");
 		Calculater testObject = new Calculater();
-		int re = testObject.multi(5,6);
-		assertEquals(30,re);
+		//int re = testObject.multi(5,6);
+		assertEquals(30,testObject.multi(5,6));
 		assertEquals(50,testObject.multi(5,10));
 	}
 	
