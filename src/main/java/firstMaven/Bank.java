@@ -65,12 +65,12 @@ public class Bank {
 		System.out.println("Phone Number" + phonenumber);
 	}
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Bank Fang = new Bank();
-		Fang.deposit();
-		Fang.withdraw();
-		Fang.info();
-	}
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		Bank Fang = new Bank();
+//		Fang.deposit();
+//		Fang.withdraw();
+//		Fang.info();
+//	}
 
 }
